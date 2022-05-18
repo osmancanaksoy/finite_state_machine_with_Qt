@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/1.png</file>
+        <file>icons/2.png</file>
+        <file>icons/3.png</file>
+        <file>icons/drawing.ico</file>
+        <file>icons/Erase-80_icon-icons.com_57327.ico</file>
+    </qresource>
+</RCC>
